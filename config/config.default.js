@@ -22,7 +22,7 @@ module.exports = appInfo => {
   const userConfig = {
     // myAppName: 'egg',
     token: 'XXXXXXX',
-    appid:'XXXXXXX',
+    appid:'XXXXXXXX',
     encodingAESKey: 'XXXXXX'
   };
 

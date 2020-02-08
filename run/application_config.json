@@ -337,7 +337,7 @@
     "onClientError": null,
     "middleware": [],
     "token": "XXXXXXX",
-    "appid": "XXXXXXX",
+    "appid": "XXXXXXXX",
     "encodingAESKey": "XXXXXX",
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": "~config~middleware",
