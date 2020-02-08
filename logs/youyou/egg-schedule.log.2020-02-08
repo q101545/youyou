@@ -1,0 +1,15 @@
+2020-02-08 23:12:30,958 INFO 4305 [Timer] /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 19049045ms at 2020-02-09 04:30:00.003
+2020-02-08 23:12:30,959 INFO 4305 [Timer] /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 2849042ms at 2020-02-09 00:00:00.001
+2020-02-08 23:12:30,959 INFO 4305 [Timer] /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 2850041ms at 2020-02-09 00:00:01.000
+2020-02-08 23:12:30,860 INFO 4313 [egg-schedule]: register schedule /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-02-08 23:12:30,860 INFO 4313 [egg-schedule]: register schedule /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-02-08 23:12:30,860 INFO 4313 [egg-schedule]: register schedule /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-02-08 23:18:54,933 INFO 5393 [egg-schedule]: register schedule /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-multipart@2.10.1@egg-multipart/app/schedule/clean_tmpdir.js
+2020-02-08 23:18:54,933 INFO 5393 [egg-schedule]: register schedule /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2020-02-08 23:18:54,934 INFO 5393 [egg-schedule]: register schedule /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2020-02-09 00:00:00,130 INFO 5393 [Job#1581177600126395298457520441] /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js executing by app
+2020-02-09 00:00:00,146 INFO 5393 [Job#1581177600126395298457520441] /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js execute succeed, used 8ms
+2020-02-09 00:00:00,140 INFO 4305 [Timer] /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 86399873ms at 2020-02-10 00:00:00.013
+2020-02-09 00:00:01,127 INFO 5393 [Job#1581177601126395308452197091] /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2020-02-09 00:00:01,135 INFO 5393 [Job#1581177601126395308452197091] /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 8ms
+2020-02-09 00:00:01,131 INFO 4305 [Timer] /Users/mac/Documents/Web/workspace/YouYou/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86399874ms at 2020-02-10 00:00:01.005
