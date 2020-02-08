@@ -21,9 +21,9 @@ module.exports = appInfo => {
   // add your user config here
   const userConfig = {
     // myAppName: 'egg',
-    token: 'XXXXXXX',
+    token: 'XXXXXXXX',
     appid:'XXXXXXXX',
-    encodingAESKey: 'XXXXXX'
+    encodingAESKey: 'XXXXXXX'
   };
 
   return {
