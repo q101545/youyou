@@ -6,7 +6,8 @@ var sha1 = require('sha1')
 class HomeController extends Controller {
      async index() {
          var obj = this.ctx.query
-         this.logger.info(obj)
+        //  this.logger.info(obj)
+         console.log(obj)
          var token = this.config.token
          timestamp = obj.timestamp
          nonce = obj.nonce
@@ -16,7 +17,8 @@ class HomeController extends Controller {
          sha = sha1(str)
          if(sha === signature){
              this.ctx.body = echostr + ''
-             this.logger.info("调用成功")
+            //  this.logger.info("调用成功")
+            console.log("调用成功")
          }
      }
  }
